@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  ConsoleApplication2.cpp
+d:\visual studio 2015\projects\consoleapplication1\consoleapplication2\consoleapplication2.cpp(16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  ConsoleApplication2.vcxproj -> D:\Visual Studio 2015\Projects\ConsoleApplication1\Debug\ConsoleApplication2.exe
+  ConsoleApplication2.vcxproj -> D:\Visual Studio 2015\Projects\ConsoleApplication1\Debug\ConsoleApplication2.pdb (Full PDB)

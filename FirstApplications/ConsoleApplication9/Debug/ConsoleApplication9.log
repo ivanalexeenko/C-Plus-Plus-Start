@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (ConsoleApplication9.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  stdafx.cpp
+  Week2Task4.cpp
+  ConsoleApplication9.vcxproj -> D:\Visual Studio 2015\Projects\ConsoleApplication1\Debug\Week2Task4.exe
+  ConsoleApplication9.vcxproj -> D:\Visual Studio 2015\Projects\ConsoleApplication1\Debug\Week2Task4.pdb (Full PDB)

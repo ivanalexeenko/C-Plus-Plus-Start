@@ -1,0 +1,4 @@
+﻿  ConsoleApplication3.cpp
+d:\visual studio 2015\projects\consoleapplication1\consoleapplication3\consoleapplication3.cpp(16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  ConsoleApplication3.vcxproj -> D:\Visual Studio 2015\Projects\ConsoleApplication1\Debug\ConsoleApplication3.exe
+  ConsoleApplication3.vcxproj -> D:\Visual Studio 2015\Projects\ConsoleApplication1\Debug\ConsoleApplication3.pdb (Full PDB)
