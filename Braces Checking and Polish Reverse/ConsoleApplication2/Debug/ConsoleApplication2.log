@@ -1,0 +1,6 @@
+﻿  Source.cpp
+d:\visual studio 2015\projects\week7\consoleapplication2\source.cpp(35): warning C4018: '<': signed/unsigned mismatch
+d:\visual studio 2015\projects\week7\consoleapplication2\source.cpp(53): warning C4101: 'p': unreferenced local variable
+d:\visual studio 2015\projects\week7\consoleapplication2\source.cpp(55): warning C4101: 'o': unreferenced local variable
+  ConsoleApplication2.vcxproj -> D:\Visual Studio 2015\Projects\Week7\Debug\ConsoleApplication2.exe
+  ConsoleApplication2.vcxproj -> D:\Visual Studio 2015\Projects\Week7\Debug\ConsoleApplication2.pdb (Full PDB)

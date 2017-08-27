@@ -1,0 +1,25 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (ConsoleApplication1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  uhi.cpp
+d:\visual studio 2015\projects\week7\consoleapplication1\uhi.cpp(34): warning C4305: 'return': truncation from 'int' to 'bool'
+d:\visual studio 2015\projects\week7\consoleapplication1\uhi.cpp(36): warning C4305: 'return': truncation from 'int' to 'bool'
+d:\visual studio 2015\projects\week7\consoleapplication1\uhi.cpp(26): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+d:\visual studio 2015\projects\week7\consoleapplication1\uhi.cpp(28): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+d:\visual studio 2015\projects\week7\consoleapplication1\uhi.cpp(40): warning C4018: '<': signed/unsigned mismatch
+d:\visual studio 2015\projects\week7\consoleapplication1\uhi.cpp(84): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+d:\visual studio 2015\projects\week7\consoleapplication1\uhi.cpp(86): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+d:\visual studio 2015\projects\week7\consoleapplication1\uhi.cpp(102): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+d:\visual studio 2015\projects\week7\consoleapplication1\uhi.cpp(106): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+d:\visual studio 2015\projects\week7\consoleapplication1\uhi.cpp(108): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+d:\visual studio 2015\projects\week7\consoleapplication1\uhi.cpp(113): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+d:\visual studio 2015\projects\week7\consoleapplication1\uhi.cpp(116): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+d:\visual studio 2015\projects\week7\consoleapplication1\uhi.cpp(119): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'

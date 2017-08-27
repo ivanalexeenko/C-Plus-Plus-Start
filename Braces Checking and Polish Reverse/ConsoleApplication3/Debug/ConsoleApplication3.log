@@ -1,0 +1,11 @@
+﻿  Source.cpp
+d:\visual studio 2015\projects\week7\consoleapplication3\source.cpp(43): warning C4018: '<': signed/unsigned mismatch
+d:\visual studio 2015\projects\week7\consoleapplication3\source.cpp(51): warning C4018: '<': signed/unsigned mismatch
+d:\visual studio 2015\projects\week7\consoleapplication3\source.cpp(62): warning C4018: '<': signed/unsigned mismatch
+d:\visual studio 2015\projects\week7\consoleapplication3\source.cpp(79): warning C4018: '<': signed/unsigned mismatch
+d:\visual studio 2015\projects\week7\consoleapplication3\source.cpp(84): warning C4305: 'return': truncation from 'int' to 'bool'
+d:\visual studio 2015\projects\week7\consoleapplication3\source.cpp(145): warning C4018: '<': signed/unsigned mismatch
+d:\visual studio 2015\projects\week7\consoleapplication3\source.cpp(179): warning C4018: '<': signed/unsigned mismatch
+d:\visual studio 2015\projects\week7\consoleapplication3\source.cpp(224): warning C4018: '<': signed/unsigned mismatch
+  ConsoleApplication3.vcxproj -> D:\Visual Studio 2015\Projects\Week7\Debug\ConsoleApplication3.exe
+  ConsoleApplication3.vcxproj -> D:\Visual Studio 2015\Projects\Week7\Debug\ConsoleApplication3.pdb (Full PDB)
