@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  Week6_Task2.cpp
+d:\visual studio\visual studio 2015\projects\week6\week6_task2\week6_task2.cpp(54): warning C4715: 'DeleteStr': not all control paths return a value
+  Week6_Task2.vcxproj -> D:\Visual Studio\Visual Studio 2015\Projects\Week6\Debug\Week6_Task2.exe
+  Week6_Task2.vcxproj -> D:\Visual Studio\Visual Studio 2015\Projects\Week6\Debug\Week6_Task2.pdb (Full PDB)
